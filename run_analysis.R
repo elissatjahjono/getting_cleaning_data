@@ -1,9 +1,7 @@
 # Getting and Cleaning Data - Course Project #
 
-## Load libraries
+## Load library
 library(dplyr)
-library(data.table)
-library(tidyr)
 
 ## Download and unzip datasets
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
