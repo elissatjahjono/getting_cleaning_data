@@ -9,11 +9,9 @@ Tidy dataset is necessary for further data analysis. Raw data were obtained from
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-First, load the libraries that are needed to tidy the raw dataset
-## Load libraries 
+First, load dplyr library that is needed to tidy the raw dataset
+## Load library
 library(dplyr)
-library(data.table)
-library(tidyr)
 
 
 Next, download and store raw datasets in working directory
